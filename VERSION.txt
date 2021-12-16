@@ -1,0 +1,6 @@
+
+This is version 1.0.0 of MediaInfo-RAR.
+
+Using: libmediainfo_0.7.38.tar.bz2
+Using: libzen_0.4.17.tar.bz2
+

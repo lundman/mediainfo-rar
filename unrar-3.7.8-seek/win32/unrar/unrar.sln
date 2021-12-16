@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unrar", "unrar\unrar.vcproj", "{45B0373C-D4B2-4A67-A3DA-A6485ABA92CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B0373C-D4B2-4A67-A3DA-A6485ABA92CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{45B0373C-D4B2-4A67-A3DA-A6485ABA92CF}.Debug|Win32.Build.0 = Debug|Win32
+		{45B0373C-D4B2-4A67-A3DA-A6485ABA92CF}.Release|Win32.ActiveCfg = Release|Win32
+		{45B0373C-D4B2-4A67-A3DA-A6485ABA92CF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+
+SUBDIRS=unrar-3.7.8-seek src win32
+
+EXTRA_DIST=LICENSE LICENSE.unrar VERSION.txt README.txt
